@@ -76,7 +76,7 @@ The project includes analysis such as:
 
 ---
 
-## 📊 Excel Dashboard
+##  Excel Dashboard
 
 The dashboard includes:
 
@@ -90,7 +90,7 @@ The dashboard includes:
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 - Identified the highest revenue-generating product categories.
 - Compared profit across different regions.
@@ -100,7 +100,7 @@ The dashboard includes:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Power BI Dashboard
 - Python Data Analysis
