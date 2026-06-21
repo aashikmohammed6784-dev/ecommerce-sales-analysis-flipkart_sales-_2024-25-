@@ -32,7 +32,7 @@ This project analyzes an e-commerce sales dataset using SQL and Microsoft Excel 
 
 ##  Dataset Information
 
-- Total Records: **1001**
+- Total Records: **1000**
 - Total Columns: **15**
 
 ### Columns
